@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<resources> 
+<string-array name="sortPri"> 
+<item >Usage Time</item> 
+<item >Launch Count</item> 
+</string-array> 
+</resources>
